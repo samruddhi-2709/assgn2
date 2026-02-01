@@ -13,7 +13,7 @@
 > 2. Upload to Google Drive and share with the instructors
 > 3. List the links below
 
-# [Dataset]([url](https://drive.google.com/file/d/1KT1YMpP3_6ni8W0vR6Igyyav2iYH7dDN/view?usp=sharing))
+# Dataset : https://drive.google.com/file/d/1KT1YMpP3_6ni8W0vR6Igyyav2iYH7dDN/view?usp=drive_link
 
 ## Data Cleaning and Preparation
 The dataset used for this assignment was downloaded from the UN Data portal and focuses on CO₂ emissions across different regions and countries over multiple years. To make the dataset easier to understand and analyze, I performed a few basic cleaning and formatting steps. First, I organized the dataset into clear and meaningful columns. The columns used were region/country/area, year, series, value, and source. This structure ensures that each row represents a single data record with a specific region, year, and data category.
