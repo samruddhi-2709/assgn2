@@ -13,6 +13,11 @@
 > 2. Upload to Google Drive and share with the instructors
 > 3. List the links below  
 
+## Data Cleaning and Preparation
+The dataset used for this assignment was downloaded from the UN Data portal and focuses on CO₂ emissions across different regions and countries over multiple years. To make the dataset easier to understand and analyze, I performed a few basic cleaning and formatting steps. First, I organized the dataset into clear and meaningful columns. The columns used were region/country/area, year, series, value, and source. This structure ensures that each row represents a single data record with a specific region, year, and data category.
+
+Next, I cleaned the value column. Some values contained commas and decimal points, which can cause issues during numerical analysis. I removed the commas and decimal points so that all values are stored in a consistent numeric format. This makes the data easier to use for calculations, comparisons, and visualizations.
+
 ## R Notebooks Links
 
 - [Notebook 1](notebook1-google-drive-link)
