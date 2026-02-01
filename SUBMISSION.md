@@ -30,22 +30,12 @@ Next, I cleaned the value column. Some values contained commas and decimal point
 
 ## Generative AI Use
 
-> **Instructions:**  
-> Describe how you used Generative AI to support your work on this assignment.  
-> Include links to the Generative AI chats you used, for example:  
-> [Link to Chat](https://link-to-chat1)  
-> It is recommended to use separate chats for different tasks or features.
+> [Link to Chat](https://chatgpt.com/share/697fc31c-1718-8011-9e38-ce468a42d05b)  
 
 I used Generative AI to help guide the data analysis and visualization steps for the CO2 emissions dataset. AI helped us write and improve code for both the Jupyter Notebook and R script, suggesting ways to clean the data, create plots, and perform statistical analysis. Through this process, I learned how to better structure analysis and visualize results clearly. The main challenge was making sure AI suggestions fit our dataset correctly and didn’t produce errors.
 
 ---
 
-## Lessons Learned
-
-> **Instructions:**  
-> - Summarize what you learned from completing this assignment, including challenges you encountered, and how you chose visual forms appropriate to the data and analysis.
-
-*Write your response below.*
 
 ## Lessons Learned
 
